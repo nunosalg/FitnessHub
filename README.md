@@ -1,4 +1,5 @@
-FitnessHub
+
+# FitnessHub
 Integrated gym management system for the FitnessHub Global Network.<br><br>
 A comprehensive software solution designed to streamline and optimize all aspects of the gym experience and fitness center management, including client services, class scheduling, business operations and many additional services...<br><br>
 
@@ -7,7 +8,7 @@ A comprehensive software solution designed to streamline and optimize all aspect
 <br><br>
 Developed as the final project for the Technology & Information Systems Programming Technical Specialization.
 
-Developed by:
+## Developed by:
 <ul>
 <li><a href="https://github.com/cunhamauro">Mauro Cunha</a></li>
 <li><a href="https://github.com/nunosalg">Nuno Salgueiro</a></li>
